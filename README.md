@@ -2,18 +2,18 @@
 
 - 🌱 I’m currently learning CS2103T Software Engineering, CS2106 Operation Systems and CS2107 Introduction to Information Security
 - 🥅 2021 Goals: Work more using Linux, work on more projects and secure a summer internship.
-- ⚡ Fun fact: I like listening to music while I work so the widget below will probably always be playing something.
+- ⚡ Fun fact: I run 4 times a week and am currently working towards a 25 mins 5k.
 
-	
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Yong Shen Spotify Playing" width="350" />](https://open.spotify.com/user/1ax8w9u1azo50bgvadmy7osz2)
+### Connect with me:
 
-### Languages and Tools:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/swa-yong-shen-17a112171/]
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+### Languages and Tools that I've been exposed to:
+
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
