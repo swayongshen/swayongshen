@@ -1,6 +1,6 @@
 ### Hi there, I'm Yong Shen, a computer science student in NUS. 👋
 
-- 🌱 I’m currently learning CS2103T Software Engineering, CS2106 Operation Systems and CS2107 Introduction to Information Security
+- 🌱 I’m currently learning CS2103T Software Engineering, CS2106 Operation Systems and CS2107 Introduction to Information Security.
 - 🥅 2021 Goals: Use Linux more, work on more projects and secure a summer internship.
 - ⚡ Fun fact: I run 4 times a week and am currently working towards a 25 mins 5k.
 
