@@ -10,7 +10,7 @@
 
 <br />
 
-### Languages and Tools that I've been exposed to:
+### Languages and tools that I've been exposed to:
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/java/java-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
