@@ -1,4 +1,4 @@
-### Hi there, I'm Yong Shen, a year 2 computer science student in NUS. 👋
+### Hi there, I'm Yong Shen, a year 3 computer science student in NUS. 👋
 
 
 ### Connect with me:
