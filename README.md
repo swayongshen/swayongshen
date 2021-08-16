@@ -22,7 +22,7 @@
 
 ### Past projects:
 - [C++ Poker](https://github.com/swayongshen/Poker)
-- [PetCare App](https://github.com/superjxvv/CS2102_2021_S1_43)
-- [Depot](https://github.com/swayongshen/depot)
+- [PetCare App (Node.js)](https://github.com/superjxvv/CS2102_2021_S1_43)
+- [Depot(Ruby on Rails)](https://github.com/swayongshen/depot)
 
 [linkedIn]: https://www.linkedin.com/in/swa-yong-shen-17a112171/
