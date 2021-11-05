@@ -11,7 +11,7 @@ Connect with me:
 
 <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/java/java-original.svg" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48054058d850630/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <br/>
