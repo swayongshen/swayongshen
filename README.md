@@ -30,7 +30,10 @@ Connect with me:
 
 ### Past projects:
 - [C++ Poker](https://github.com/swayongshen/Poker)
-- [PetCare App (Node.js)](https://github.com/superjxvv/CS2102_2021_S1_43)
+- [PetCare App (Node.js, Express.js, PostgreSQL)](https://github.com/superjxvv/CS2102_2021_S1_43)
 - [Depot (Ruby on Rails)](https://github.com/swayongshen/depot)
+- Software engineering class group project using Java (CS2103T).
+- Software engineering class group project using C++ (CS3203).
+- Software engineering class group project front-end development using React (CS3219).
 
 [linkedIn]: https://www.linkedin.com/in/swa-yong-shen-17a112171/
