@@ -34,6 +34,6 @@ Connect with me:
 - [Depot (Ruby on Rails)](https://github.com/swayongshen/depot)
 - Software engineering class group project using Java (CS2103T).
 - Software engineering class group project using C++ (CS3203).
-- Software engineering class group project front-end development using React (CS3219).
+- Software engineering class [group project](https://github.com/swayongshen/cs3219-project-ay2122-2122-s1-g5) front-end development using React (CS3219).
 
 [linkedIn]: https://www.linkedin.com/in/swa-yong-shen-17a112171/
