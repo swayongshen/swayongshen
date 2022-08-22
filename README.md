@@ -1,4 +1,4 @@
-## Hi there, I'm Yong Shen, a penultimate year computer science student at the National University of Singapore. 👋
+## Hi there, I'm Yong Shen, a final year computer science student at the National University of Singapore. 👋
 
 Connect with me:
 
